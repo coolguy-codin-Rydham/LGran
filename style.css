@@ -478,7 +478,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   padding-block: 10px;
 }
 .innerpart8 {
-  padding-bottom: 5%;
+    padding-block: 5%;
   padding-inline: 10%;
   max-width: 1440px;
   width: 100%;
